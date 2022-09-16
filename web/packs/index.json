@@ -1,6 +1,6 @@
 {
   "packs": [
-    "test.json"
+    "hangseed9.json"
   ],
-  "homeserver_url": "https://matrix.org"
+  "homeserver_url": "https://chat.belo.chat"
 }
