@@ -1,6 +1,7 @@
 {
   "packs": [
-    "hangseed9.json"
+    "hangseed9.json",
+    "colorcat.json"
   ],
   "homeserver_url": "https://chat.belo.chat"
 }
