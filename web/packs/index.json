@@ -1,7 +1,11 @@
 {
   "packs": [
     "hangseed9.json",
-    "colorcat.json"
+    "colorcat.json",
+    "DinDino.json",
+    "Dogecheemspack.json",
+    "For_Ac.json",
+    "MonoMemeee.json"
   ],
   "homeserver_url": "https://chat.belo.chat"
 }
